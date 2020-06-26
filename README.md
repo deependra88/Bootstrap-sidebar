@@ -1,2 +1,2 @@
 # Bootstrap-sidebar
-Its Bootstrap sidebar example in 4 and 4 version
+Its Bootstrap sidebar example in 3 and 4 version
